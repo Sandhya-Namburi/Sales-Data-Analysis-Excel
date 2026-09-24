@@ -21,6 +21,7 @@ Excel Charts
 Sorting and Filtering
 Data Analysis
 
+ 
 📂 Dataset
 The project uses the Sample Superstore dataset, which contains information about:
 Orders
@@ -34,20 +35,27 @@ Discounts
 Profit
 Order and Shipping Dates
 
+
 📑 Workbook Structure
 The Excel workbook contains the following sheets:
 
 1. Raw Data
 Contains the original Superstore dataset. The raw data is maintained separately for reference and analysis.
 
+
 2. Working
 Contains calculations and formulas used for analysis, including:
 
 SUM
+
 SUMIFS
+
 COUNTIFS
+
 AVERAGE
+
 AVERAGEIFS
+
 It also contains basic KPIs such as:
 
 Total Sales
@@ -113,6 +121,7 @@ PivotTable Creation
 KPI Development
 Data Visualization
 Business Insight Generation
+
 💡 SUMIFS vs PivotTable
 SUMIFS is useful when a specific value needs to be calculated based on one or more conditions.
 
@@ -122,6 +131,7 @@ PivotTables are useful for quickly summarizing, comparing, and exploring large d
 This project demonstrates how Microsoft Excel can be used to transform raw business data into meaningful information. By using formulas, PivotTables, filtering, sorting, KPIs, and charts, the dataset was analyzed from multiple business perspectives.
 
 👩‍💻 Author
+
 Sandhya Namburi
 
 B.Tech – Data Science
